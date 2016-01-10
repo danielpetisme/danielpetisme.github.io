@@ -1,0 +1,27 @@
+safe:      true
+permalink: pretty
+highlighter: pygments
+markdown:  redcarpet
+
+# Setup
+title:               Daniel Petisme
+tagline:             ''
+description:         |
+    Hi, I'm Daniel Petisme.
+    <br/>
+    <br/>
+    If I get stuck on a a problem more than 15 minutes, then it definitely deserves a post.
+    <br/>
+    <br/>
+    <center><small>
+    <a href="mailto:daniel.petisme@gmail.com">daniel.petisme@gmail.com</a>
+    </small></center>
+
+url:                 http://danielpetisme.me
+paginate:            5
+# About/contact
+author:
+  name:              Daniel Petisme
+  url:               https://twitter.com/danielpetisme
+  email:             daniel.petisme@gmail.com
+# Custom vars
