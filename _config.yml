@@ -2,6 +2,8 @@ safe:      true
 permalink: pretty
 highlighter: pygments
 markdown:  redcarpet
+redcarpet:
+  extensions: ["strikethrough"]
 
 # Setup
 title:               Daniel Petisme
